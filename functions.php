@@ -187,6 +187,11 @@ add_action('wp_enqueue_scripts', 'accounting_scripts');
 require get_template_directory() . '/inc/custom-header.php';
 
 /**
+ * Demo Import
+ */
+require get_template_directory() . '/inc/demo-import.php';
+
+/**
  * Custom template tags for this theme.
  */
 require get_template_directory() . '/inc/template-tags.php';
