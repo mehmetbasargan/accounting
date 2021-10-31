@@ -1,4 +1,4 @@
-Accounting Custom WordPress Themed
+Accounting Custom WordPress Theme
 
 https://colorlib.com/wp/template/accounting/ sitesinden aldığımım statik HTML dosyaları Dinamik WordPress Teması olarak kodladım.
 
